@@ -1,14 +1,14 @@
 Hi 👋 My name is Erick Nyamwaya Atura
 =====================================
 
-Web Developer \[MERN STACK\]
+Data Analyst
 ----------------------------
 
 I've been learning Coding for the past 1.5 years, started out with HTML & CSS and have found passion with React and Node Js
 
 *   🌍  I'm based in Kenya
 *   ✉️  You can contact me at [eriqneone@gmail.com](mailto:eriqneone@gmail.com)
-*   🧠  I'm learning React
+*   🧠  I'm loving data
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  I love Jesus Christ
 
